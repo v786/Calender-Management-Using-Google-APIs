@@ -24,7 +24,7 @@ class Controller_Welcome extends Controller {
 				echo($post);
 				echo ("something");
 				require_once '../../vendor/autoload.php';
-				$CLIENT_ID = '26808597848-u82upoffafu793802aive0aa9em7nj7q.apps.googleusercontent.com';
+				$CLIENT_ID = '';//your google client id goes here
 				$client = new Google_Client(['client_id' => $CLIENT_ID]);  // Specify the CLIENT_ID of the app that accesses the backend
 				$payload = $client->verifyIdToken($id_token);
 				if ($payload) 

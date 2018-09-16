@@ -16,7 +16,7 @@
     <title>Login</title>
  
     <script src="https://apis.google.com/js/platform.js" async defer></script>
-    <meta name="google-signin-client_id" content="26808597848-u82upoffafu793802aive0aa9em7nj7q.apps.googleusercontent.com">   
+    <meta name="google-signin-client_id" content="your google client id goes here">   
   </head>
 
   <body>

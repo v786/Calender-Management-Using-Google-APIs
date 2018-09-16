@@ -16,7 +16,6 @@
     <title>Floating labels example for Bootstrap</title>
  
     <script src="https://apis.google.com/js/platform.js" async defer></script>
-    <meta name="google-signin-client_id" content="26808597848-u82upoffafu793802aive0aa9em7nj7q.apps.googleusercontent.com">   
   </head>
 
   <body>
